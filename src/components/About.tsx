@@ -78,7 +78,7 @@ const About: React.FC = () => {
                   whileHover={{ scale: 1.05 }}
                   transition={{ type: "spring", stiffness: 300 }}
                 >
-                  <div className="text-3xl font-bold text-purple-400 mb-2">2025</div>
+                  <div className="text-3xl font-bold text-purple-400 mb-2">2025-27</div>
                   <div className="text-gray-300 text-sm">{t('about.graduated')}</div>
                 </motion.div>
               </div>
