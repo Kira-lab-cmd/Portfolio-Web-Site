@@ -10,9 +10,12 @@ import Education from './components/Education';
 import Contact from './components/Contact';
 import { LanguageProvider } from './contexts/LanguageContext';
 import { ThemeProvider } from './contexts/ThemeContext';
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
   return (
+    <>
+    <Analytics />
     <ThemeProvider>
       <LanguageProvider>
         <div className="min-h-screen transition-colors duration-300">
@@ -35,6 +38,8 @@ function App() {
         </div>
       </LanguageProvider>
     </ThemeProvider>
+    </>
+    
   );
 }
 
