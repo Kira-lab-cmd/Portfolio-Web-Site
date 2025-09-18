@@ -70,7 +70,7 @@ const Contact: React.FC = () => {
               transition={{ duration: 0.6 }}
               className="space-y-8"
             >
-              <h3 className="text-2xl font-bold text-white mb-8">Get In Touch</h3>
+              <h3 className="text-2xl font-bold text-white mb-8">{t('contact.form.getintouch')}</h3>
 
               {/* Email */}
               <motion.div
@@ -95,7 +95,7 @@ const Contact: React.FC = () => {
                   <MapPin className="text-white" size={20} />
                 </div>
                 <div>
-                  <h4 className="text-white font-semibold">Location</h4>
+                  <h4 className="text-white font-semibold">{t('contact.form.location')}</h4>
                   <p className="text-gray-300">{t('contact.location')}</p>
                 </div>
               </motion.div>

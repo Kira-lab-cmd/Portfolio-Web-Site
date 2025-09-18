@@ -20,14 +20,14 @@ const translations = {
     'nav.contact': 'İletişim',
     
     // Hero
-    'hero.title': 'Yusuf Tetik | Front-End Geliştirici',
+    'hero.title': 'Yusuf Tetik | Full-Stack Geliştirici',
     'hero.subtitle': 'Modern teknolojilerle ölçeklenebilir, kullanıcı dostu web uygulamaları geliştiriyorum',
     'hero.location': 'İzmir/Kemalpaşa, Türkiye',
     'hero.cta': 'Projelerimi Gör',
     
     // About
     'about.title': 'Hakkımda',
-    'about.description': 'Merhaba! Ben Yusuf Tetik, 21 yaşında bir front-end geliştiriciyim. Kullanıcı odaklı, ölçeklenebilir web uygulamaları oluşturmaya tutkulu biriyim. DEU IMYO Bilgisayar Programcılığı mezunuyum. Kod yazarken kullanıcı deneyimi ve performansı ön planda tutarım. Türkçe ana dilim, İngilizceyi B1/B2 seviyesinde aktif kullanıyorum.',
+    'about.description': 'Merhaba! Ben Yusuf Tetik, 21 yaşında bir full-stack geliştiriciyim. Kullanıcı odaklı, ölçeklenebilir web uygulamaları oluşturmaya tutkulu biriyim. DEU Bilgisayar Mühendisliği okumaktayım. Kod yazarken kullanıcı deneyimi ve performansı ön planda tutarım. Türkçe ana dilim, İngilizceyi B1/B2 seviyesinde aktif kullanıyorum.',
     'about.years': 'Yaşındayım',
     'about.graduated': 'Mezun',
     
@@ -56,7 +56,7 @@ const translations = {
     
     // Education
     'education.title': 'Eğitimim',
-    'education.deu': 'DEU IMYO Bilgisayar Programcılığı Mezunu (2025)',
+    'education.deu': 'DEU Bilgisayar Mühendisliği (2023-27)',
     'education.age': '21 Yaşında (01.03.2004)',
     
     // Contact
@@ -71,6 +71,8 @@ const translations = {
     'contact.form.message.placeholder': 'Mesajınız...',
     'contact.form.successMessage': 'Mesajınız başarıyla gönderildi! Teşekkürler.',
     'contact.form.errorMessage': 'Mesajınız gönderilirken bir hata oluştu. Lütfen tekrar deneyin.',
+    'contact.form.getintouch': 'İletişime Geçin',
+    'contact.form.location': 'Konum',
   },
   en: {
     // Header
@@ -90,7 +92,7 @@ const translations = {
     
     // About
     'about.title': 'About Me',
-    'about.description': 'Hello! I\'m Yusuf Tetik, a 21-year-old front-end developer passionate about creating scalable, user-focused web applications. A graduate of DEU IMYO Computer Programming, I prioritize user experience and performance in my code. Turkish is my native language; I actively use English at B1/B2 level.',
+    'about.description': 'Hello! I\'m Yusuf Tetik, a 21-year-old front-end developer passionate about creating scalable, user-focused web applications. I am studying Computer Engineering at DEU, I prioritize user experience and performance in my code. Turkish is my native language; I actively use English at B1/B2 level.',
      'about.years': 'Years Old',
     'about.graduated': 'Graduate',
     
@@ -119,7 +121,7 @@ const translations = {
     
     // Education
     'education.title': 'Education',
-    'education.deu': 'DEU IMYO Computer Programming Graduate (2025)',
+    'education.deu': 'DEU Computer Engineering Graduate (2025-27)',
     'education.age': '21 Years Old (01.03.2004)',
     
     // Contact
@@ -134,6 +136,8 @@ const translations = {
     'contact.form.message.placeholder': 'Your Message...',
     'contact.form.successMessage': 'Your message has been sent successfully! Thank you.',
     'contact.form.errorMessage': 'There was an error sending your message. Please try again.',
+    'contact.form.getintouch': 'Get In Touch',
+    'contact.form.location': 'Location',
   }
 };
 
