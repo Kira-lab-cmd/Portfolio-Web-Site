@@ -10,7 +10,7 @@ import Education from './components/Education';
 import Contact from './components/Contact';
 import { LanguageProvider } from './contexts/LanguageContext';
 import { ThemeProvider } from './contexts/ThemeContext';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
