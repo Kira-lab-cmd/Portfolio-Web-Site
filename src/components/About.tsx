@@ -40,7 +40,7 @@ const About: React.FC = () => {
                 <div className="w-72 h-72 bg-gray-200 dark:bg-gray-700 rounded-full flex items-center justify-center">
                  {/* <span className="text-6xl font-bold text-gray-600 dark:text-gray-300">YT</span>*/}
                   <img
-                    src="/src/images/profile.jpg"
+                    src="/profile.jpg"
                     alt="Profile Photo"
                     className="w-full h-full object-cover object-center rounded-full"
                   />
