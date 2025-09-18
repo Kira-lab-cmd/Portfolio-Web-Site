@@ -85,7 +85,7 @@ const translations = {
     'nav.contact': 'Contact',
     
     // Hero
-    'hero.title': 'Yusuf Tetik | Front-End Developer',
+    'hero.title': 'Yusuf Tetik | Full-Stack Developer',
     'hero.subtitle': 'Building scalable, user-friendly web applications with modern technologies',
     'hero.location': 'İzmir/Kemalpaşa, Turkey',
     'hero.cta': 'View My Work',
