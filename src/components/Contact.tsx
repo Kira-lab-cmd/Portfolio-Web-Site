@@ -103,7 +103,7 @@ const Contact: React.FC = () => {
               {/* Social Links */}
               <div className="flex space-x-4">
                 <motion.a
-                  href="#"
+                  href="https://github.com/Kira-lab-cmd?tab=repositories"
                   className="p-4 bg-white/10 hover:bg-white/20 backdrop-blur rounded-xl border border-white/20 transition-all duration-300"
                   whileHover={{ scale: 1.1, rotate: 360 }}
                   transition={{ type: "spring", stiffness: 300 }}
@@ -111,7 +111,7 @@ const Contact: React.FC = () => {
                   <Github className="text-white" size={24} />
                 </motion.a>
                 <motion.a
-                  href="#"
+                  href="https://www.linkedin.com/in/yusuf-tetik-b8704b23a/"
                   className="p-4 bg-white/10 hover:bg-white/20 backdrop-blur rounded-xl border border-white/20 transition-all duration-300"
                   whileHover={{ scale: 1.1, rotate: 360 }}
                   transition={{ type: "spring", stiffness: 300 }}
