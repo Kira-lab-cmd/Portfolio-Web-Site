@@ -92,7 +92,7 @@ const translations = {
     
     // About
     'about.title': 'About Me',
-    'about.description': 'Hello! I\'m Yusuf Tetik, a 21-year-old front-end developer passionate about creating scalable, user-focused web applications. I am studying Computer Engineering at DEU, I prioritize user experience and performance in my code. Turkish is my native language; I actively use English at B1/B2 level.',
+    'about.description': 'Hello! I\'m Yusuf Tetik, a 21-year-old full-stack developer passionate about creating scalable, user-focused web applications. I am studying Computer Engineering at DEU, I prioritize user experience and performance in my code. Turkish is my native language; I actively use English at B1/B2 level.',
      'about.years': 'Years Old',
     'about.graduated': 'Graduate',
     
